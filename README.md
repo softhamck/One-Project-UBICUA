@@ -15,6 +15,3 @@ Este es un programa desarrollado en Dart para la gestión de la contabilidad de 
 1. Clona este repositorio a tu máquina local.
 2. Ejecuta el programa en tu entorno Dart.
 3. Sigue las instrucciones del menú para gestionar el inventario y realizar ventas.
-
-## Contribuciones
-Si deseas contribuir a este proyecto, siéntete libre de enviar pull requests. Agradecemos cualquier mejora o corrección que puedas aportar.
