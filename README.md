@@ -26,6 +26,3 @@ Este es un programa desarrollado en Dart para la gestión de la contabilidad de 
 6. Sigue las instrucciones en la consola para interactuar con el programa. Deberías poder ingresar opciones numéricas y datos según lo que esté diseñado para hacer el proyecto "Peluchitos.com".
 
 7. Cuando hayas terminado de interactuar con el programa y desees detenerlo, busca un botón o opción que te permita detener la ejecución. Puede estar etiquetado como "Stop" o "Detener".
-
-¡Eso es todo! Ahora puedes ejecutar y probar el proyecto "Peluchitos.com" en el entorno de Replit siguiendo estos pasos.
-
