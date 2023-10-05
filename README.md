@@ -13,7 +13,7 @@ Este es un programa desarrollado en Dart para la gestión de la contabilidad de 
 
 ## Instrucciones para Ejecutar el Proyecto "Peluchitos.com" en Replit
 
-1. Abre tu navegador web y ve al enlace del proyecto Replit: [https://replit.com/@AndreaMunoz11/One-Project-UBICUA#main.dart](https://replit.com/@AndreaMunoz11/One-Project-UBICUA#main.dart).
+1. Abre tu navegador web y ve al enlace del proyecto Replit: [https://replit.com/@AndreaMunoz11/PROJECT#main.dart](https://replit.com/@AndreaMunoz11/PROJECT#main.dart).
 
 2. Una vez que estés en la página de Replit, verás el código fuente del proyecto "Peluchitos.com" en el panel de la izquierda.
 
